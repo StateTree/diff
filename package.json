@@ -2,7 +2,7 @@
   "name": "diff",
   "version": "0.1.0",
   "description": "Utility library to calculate diff",
-  "main": "index.js",
+  "main": "lib/diff.js",
   "scripts": {
     "build": "webpack --progress --config webpack.config.js",
     "lint": "eslint ./src --ext .js --cache --fix --ext .jsx --cache --fix",
