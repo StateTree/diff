@@ -1,6 +1,6 @@
 {
   "name": "diff",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Utility library to calculate diff",
   "main": "lib/diff.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "release:breakingchange": "npm version major -m 'Bumped major version number' && npm run release:master",
     "release:bugfix": "npm version patch -m 'Bumped patch version number' && npm run release:master",
     "release:feature": "npm version minor -m 'Bumped minor version number' && npm run release:master",
-    "release:master": "git checkout master && git merge --squash develop && git commit -am 'Release Commit' && git push && git checkout develop",
+    "release:master": "git checkout master && git merge --squash --strategy-option theirs develop && git commit -am 'Release Commit' && git push && git checkout develop",
     "start": "webpack-dev-server --progress --config webpack.config.js --open"
   },
   "repository": {
