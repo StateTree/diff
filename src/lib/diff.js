@@ -1,13 +1,16 @@
 import compare from './compare/compare';
 
-function diff(oldState, newState){
-    const comparisonValue = compare(oldState,newState);
-    if (comparisonValue === 0){
-        return undefined
-    }
-    else{
-        return newState;
-    }
+function diff(oldValue, newValue){
+	const comparisonValue =  compare(oldValue, newValue);
+
+	if(comparisonValue === 0){
+		newValue = undefined;
+	}
+
+    return {
+		prev: oldValue,
+		current: newValue
+	};
 }
 
 export default diff;
