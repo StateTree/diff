@@ -8,8 +8,8 @@ function diff(oldValue, newValue){
 	}
 
     return {
-		prev: oldValue,
-		current: newValue
+		previous: oldValue,
+		value: newValue
 	};
 }
 

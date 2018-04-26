@@ -1,6 +1,6 @@
 {
   "name": "diff",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "Utility library to calculate diff",
   "main": "lib/diff.js",
   "scripts": {
