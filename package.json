@@ -1,6 +1,6 @@
 {
   "name": "@statetree/diff",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Utility library to find diff and comparison value for sorting",
   "main": "lib/diff.js",
   "scripts": {
