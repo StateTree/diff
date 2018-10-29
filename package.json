@@ -1,44 +1,64 @@
 {
-  "name": "diff",
-  "version": "2.0.0",
-  "description": "Utility library to calculate diff",
+  "name": "@statetree/functions",
+  "version": "2.0.1",
+  "description": "Utility library to find diff and comparison value for sorting",
   "main": "lib/diff.js",
   "scripts": {
-    "build": "webpack --progress --config webpack.config.js",
+    "start": "webpack-dev-server --open --mode development",
     "lint": "eslint ./src --ext .js --cache --fix --ext .jsx --cache --fix",
-    "postbuild": "node scripts/postbuild.js",
-    "postversion": "git push origin HEAD --follow-tags",
-    "prebuild": "rimraf lib && rimraf demo",
-    "release:breakingchange": "npm version major -m 'Bumped major version number' && npm run release:master",
-    "release:bugfix": "npm version patch -m 'Bumped patch version number' && npm run release:master",
-    "release:feature": "npm version minor -m 'Bumped minor version number' && npm run release:master",
-    "release:master": "git checkout master && git merge --squash --strategy-option theirs develop && git commit -am 'Release Commit' && git push && git checkout develop",
-    "start": "webpack-dev-server --progress --config webpack.config.js --open"
+    "test": "./node_modules/.bin/mocha test --recursive --timeout 0 --require ./node_modules/@babel/register --require test/helpers/*.js -R spec",
+    "coverage": "NODE_ENV=coverage ./node_modules/.bin/nyc npm run test",
+    "report-coverage": "nyc report --reporter=lcov > coverage.lcov && codecov",
+    "doc": "./node_modules/.bin/esdoc open ./docs/index.html",
+    "prebuild": "rimraf lib && rimraf build",
+    "build": "./node_modules/.bin/webpack --mode production ",
+    "postbuild": "node scripts/postbuild.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/StateTree/diff.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Sanjay Krishna Anbalagan",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/StateTree/diff/issues"
   },
   "homepage": "https://github.com/StateTree/diff#readme",
   "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-core": "^6.25.0",
-    "babel-eslint": "^7.2.3",
-    "babel-loader": "^7.1.1",
-    "babel-preset-env": "^1.6.0",
-    "eslint": "^4.1.1",
-    "eslint-loader": "^1.8.0",
-    "fs-extra": "^3.0.1",
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/register": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-istanbul": "^5.0.1",
+    "chai": "^4.2.0",
+    "co-exec": "^1.1.0",
+    "codecov": "^3.1.0",
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "eslint": "^5.6.1",
+    "eslint-loader": "^2.1.1",
+    "fs-extra": "^7.0.0",
+    "ghooks": "^2.0.4",
+    "jsdom": "^12.2.0",
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1",
     "rimraf": "^2.6.2",
-    "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.8.2"
+    "sinon": "^6.3.5",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9"
   },
   "files": [
     "lib"
-  ]
+  ],
+  "config": {
+    "ghooks": {
+      "pre-commit": "npm run test"
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
