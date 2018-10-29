@@ -18,6 +18,15 @@ npm-cache/
 log/
 /*.eslintcache
 
-# npm
+#npm
 node_modules
+
+# diff
+dist
+.nyc_output
+coverage
+*.lcov
+demo
+build
+lib
 
