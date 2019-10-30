@@ -1,0 +1,1712 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "lib/.external-ecmascript.js",
+    "static": true,
+    "longname": "lib/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "lib/compare/array.js",
+    "content": "import compare from './index';\n\n/**\n * This method returns a number indicating whether array1 comes before or after or is the same as the array2 in sort order (ascending order)\n *  1 array1 comes after array2\n * -1 array1 comes before array2\n *  0 array1 same as array2\n * @param {Array} array1\n * @param {Array} array2\n * @return {Number}\n */\nfunction array(array1, array2) {\n    if (array1 === array2)\n        return 0;\n    if (array1 == null) // == to test both undefined and null\n        return 1;\n    if (array2 == null) // == to test both undefined and null\n        return -1;\n\n    let comparisonValue;\n    const  array1Length = array1.length;\n    const  array2Length = array2.length;\n    if (array1Length < array2Length) return -1;\n    if (array1Length > array2Length) return 1;\n\n    for (let i = 0; i < array1Length; i++) {\n        //recursive comparison of array elements\n        comparisonValue = compare(array1[i], array2[i]);\n        if (comparisonValue != 0)\n            return comparisonValue;\n    }\n    return 0;\n};\n\nexport default array;",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/compare/array.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "array",
+    "memberof": "lib/compare/array.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "lib/compare/array.js~array",
+    "access": "public",
+    "export": true,
+    "importPath": "@statetree/diff/lib/compare/array.js",
+    "importStyle": "array",
+    "description": "This method returns a number indicating whether array1 comes before or after or is the same as the array2 in sort order (ascending order)\n 1 array1 comes after array2\n-1 array1 comes before array2\n 0 array1 same as array2",
+    "lineNumber": 12,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "array1",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "array2",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "lib/compare/date.js",
+    "content": "/**\n * This method returns a number indicating whether date1 comes before or after or is the same as the date2 in sort order (ascending order)\n *  1 date1 comes after date2\n * -1 date1 comes before date2\n *  0 date1 same as date2\n * @param {Date} date1\n * @param {Date} date2\n * @return {Number}\n */\nfunction date(date1, date2) {\n\n    if (date1 === null && date2 === null) return 0;\n    if (date1 === null) return 1;\n    if (date2 === null) return -1;\n\n    const  time1 = date1.getTime();\n    const  time2 = date2.getTime();\n\n\tif (time1 < time2) return -1;\n\tif (time1 > time2) return 1;\n\n    return 0;\n}\n\nexport default date;",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/compare/date.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "date",
+    "memberof": "lib/compare/date.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "lib/compare/date.js~date",
+    "access": "public",
+    "export": true,
+    "importPath": "@statetree/diff/lib/compare/date.js",
+    "importStyle": "date",
+    "description": "This method returns a number indicating whether date1 comes before or after or is the same as the date2 in sort order (ascending order)\n 1 date1 comes after date2\n-1 date1 comes before date2\n 0 date1 same as date2",
+    "lineNumber": 10,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Date"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "date1",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Date"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "date2",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "lib/compare/index.js",
+    "content": "import stringCompare from './string'\nimport numberCompare from './number'\nimport dateCompare from './date'\nimport arrayCompare from './array'\nimport objectCompare from './object'\nimport is from './../is'\n\n/**\n * This method returns a number indicating whether obj1 comes before or after or is the same as the obj2 in sort order (ascending order)\n *  1 obj1 comes after obj2\n * -1 obj1 comes before obj2\n *  0 obj1 same as obj2\n * @param {Object} obj1\n * @param {Object} obj2\n * @return {Number}\n */\nfunction compare(obj1, obj2) {\n    if (obj1 === obj2)\n        return 0;\n    if (obj1 == null)\n        return 1;\n    if (obj2 == null)\n        return -1;\n\n    const  obj1Type = typeof obj1;\n    const  obj2Type = typeof obj2;\n\n    // if both the objects are of different types, string comparison is used\n    if (obj1Type !== obj2Type) return stringCompare(obj1Type, obj2Type);\n\n    if (obj1Type === 'boolean') return numberCompare(Number(obj1), Number(obj2));\n    if (obj1Type === 'number') return numberCompare(obj1, obj2);\n    if (obj1Type === 'string') return stringCompare(obj1, obj2);\n\n\n    if (is(obj1, Date))return dateCompare(obj1, obj2);\n    if (is(obj1, Array)) return arrayCompare(obj1, obj2);\n    if (is(obj1, Object)) return objectCompare(obj1, obj2);\n\n    return 0;\n};\n\nexport default compare;",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/compare/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "compare",
+    "memberof": "lib/compare/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "lib/compare/index.js~compare",
+    "access": "public",
+    "export": true,
+    "importPath": "@statetree/diff/lib/compare/index.js",
+    "importStyle": "compare",
+    "description": "This method returns a number indicating whether obj1 comes before or after or is the same as the obj2 in sort order (ascending order)\n 1 obj1 comes after obj2\n-1 obj1 comes before obj2\n 0 obj1 same as obj2",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "obj1",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "obj2",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "lib/compare/number.js",
+    "content": "/**\n * This method returns a number indicating whether num1 comes before or after or is the same as the num2 in sort order (ascending order)\n *  1 num1 comes after num2\n * -1 num1 comes before num2\n *  0 num1 same as mum2\n * @param {Number} num1\n * @param {Number} num2\n * @return {Number}\n */\nfunction number(num1, num2) {\n\n    if (isNaN(num1) && isNaN(num2))\n        return 0;\n    if (isNaN(num1))\n        return 1;\n    if (isNaN(num2))\n        return -1;\n\n    if (num1 < num2)\n        return -1;\n    if (num1 > num2)\n        return 1;\n    return 0;\n}\n\nexport default number;",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/compare/number.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "number",
+    "memberof": "lib/compare/number.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "lib/compare/number.js~number",
+    "access": "public",
+    "export": true,
+    "importPath": "@statetree/diff/lib/compare/number.js",
+    "importStyle": "number",
+    "description": "This method returns a number indicating whether num1 comes before or after or is the same as the num2 in sort order (ascending order)\n 1 num1 comes after num2\n-1 num1 comes before num2\n 0 num1 same as mum2",
+    "lineNumber": 10,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "num1",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "num2",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "lib/compare/object.js",
+    "content": "import compare from './index';\n\n/**\n * This method returns a number indicating whether obj1 comes before or after or is the same as the obj2 in sort order (ascending order)\n *  1 obj1 comes after obj2\n * -1 obj1 comes before obj2\n *  0 obj1 same as obj2\n * @param {Object} obj1\n * @param {Object} obj2\n * @return {Number}\n */\nfunction object(obj1, obj2) {\n    if (obj1 === obj2) return 0;\n    if (obj1 == null) return 1;\n    if (obj2 == null) return -1;\n\n\n    const keys1 = Object.keys(obj1);\n    const keys2 = Object.keys(obj2);\n\n    const keysLength1 = keys1.length;\n    const keysLength2 = keys2.length;\n    if((keysLength1 === keysLength2) && (keysLength1 === 0)) return 0;\n    if(keysLength1 > keysLength2) return 1;\n\tif(keysLength1 < keysLength2) return -1;\n\n\tlet i = 0;\n\tlet key, comparisonValue;\n\tfor(;i < keysLength1; i++ ){\n\t    key = keys1[i];\n\t\tif (!obj2.hasOwnProperty(key)){\n\t\t\treturn -1;\n        }\n    }\n\n    i = 0;\n\tfor(;i < keysLength2; i++ ){\n\t\tkey = keys2[i];\n\t\t//recursive comparison of object property\n\t\tcomparisonValue = compare(obj1[key], obj2[key]);\n\t\tif (comparisonValue !== 0) {\n\t\t    return comparisonValue;\n\t\t}\n\t}\n\n    return 0;\n};\n\nexport default object;",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/compare/object.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "object",
+    "memberof": "lib/compare/object.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "lib/compare/object.js~object",
+    "access": "public",
+    "export": true,
+    "importPath": "@statetree/diff/lib/compare/object.js",
+    "importStyle": "object",
+    "description": "This method returns a number indicating whether obj1 comes before or after or is the same as the obj2 in sort order (ascending order)\n 1 obj1 comes after obj2\n-1 obj1 comes before obj2\n 0 obj1 same as obj2",
+    "lineNumber": 12,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "obj1",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "obj2",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "lib/compare/string.js",
+    "content": "/**\n * This method returns a number indicating whether str1 comes before or after or is the same as the obj2 in sort order (ascending order)\n *  1 str1 comes after str2\n * -1 str1 comes before str2\n *  0 str1 same as str2\n *  Its a wrapper to localeCompare function (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)\n * @param {Object} str1\n * @param {Object} str2\n * @param {Boolean} isCaseSensitive\n * @return {Number}\n */\nfunction string(str1, str2, isCaseSensitive = true) {\n    // == used to consider both null and undefined\n    if (str1 == null && str2 == null) return 0;\n    if (str1 == null) return 1;\n    if (str2 == null) return -1;\n\n    if (!isCaseSensitive) {\n        str1 = String(str1).toLocaleLowerCase();\n        str2 = String(str2).toLocaleLowerCase();\n    }\n\n    // localeCompare will return positive or negative or zero based on the browser\n    let result = String(str1).localeCompare(str2);\n    if (result < -1) // if less than -1 set to -1\n        result = -1;\n    else if (result > 1) // if greater than 1 set to 1\n        result = 1;\n\n    return result;\n}\n\nexport default string;\n\n",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/compare/string.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "string",
+    "memberof": "lib/compare/string.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "lib/compare/string.js~string",
+    "access": "public",
+    "export": true,
+    "importPath": "@statetree/diff/lib/compare/string.js",
+    "importStyle": "string",
+    "description": "This method returns a number indicating whether str1 comes before or after or is the same as the obj2 in sort order (ascending order)\n 1 str1 comes after str2\n-1 str1 comes before str2\n 0 str1 same as str2\n Its a wrapper to localeCompare function (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)",
+    "lineNumber": 12,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "str1",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "str2",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "isCaseSensitive",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "lib/diff.js",
+    "content": "import compare from './compare';\n\n/**\n * This method returns compares to find both are same if not returns the new value\n * @param {Object} oldValue\n * @param {Object} newValue\n * @return {Object}\n */\nfunction diff(oldValue, newValue){\n\tconst comparisonValue =  compare(oldValue, newValue);\n\n\tif(comparisonValue === 0){\n\t\tnewValue = undefined;\n\t}\n\n    return newValue;\n}\n\nexport default diff;",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/diff.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "diff",
+    "memberof": "lib/diff.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "lib/diff.js~diff",
+    "access": "public",
+    "export": true,
+    "importPath": "@statetree/diff",
+    "importStyle": "diff",
+    "description": "This method returns compares to find both are same if not returns the new value",
+    "lineNumber": 9,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "oldValue",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "newValue",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "lib/index.js",
+    "content": "import compare from './compare';\nimport diff from './diff';\n\nexport {\n    diff as default,\n    compare\n}",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "lib/is.js",
+    "content": "/**\n * This method is to check the type\n * if obj is null or undefined will always return false\n * if Type is Object will always return true as Object is the super set\n * @param {Object} obj\n * @param {Object} Type\n * @return {Boolean}\n */\nfunction is(obj, Type) {\n    if (obj == null || Type == null)\n        return false;\n\n    // though es6 class is implemeted in all the browsers\n    // we are still using es5 js most of the area,\n    // so Class will come as Function Object\n    // which limits us from not using obj.constructor.name === Type.name\n    // hence we are using below flags\n    if (obj instanceof Type)\n        return true;\n\n    if (typeof obj === 'string')\n        return Type === String;\n    if (typeof obj === 'number')\n        return Type === Number;\n    if (typeof obj === 'boolean')\n        return Type === Boolean;\n\n    return false;\n}\n\nexport default is;",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/src/lib/is.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "is",
+    "memberof": "lib/is.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "lib/is.js~is",
+    "access": "public",
+    "export": true,
+    "importPath": "@statetree/diff/lib/is.js",
+    "importStyle": "is",
+    "description": "This method is to check the type\nif obj is null or undefined will always return false\nif Type is Object will always return true as Object is the super set",
+    "lineNumber": 9,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "obj",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "Type",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "kind": "index",
+    "content": "# diff\n[![NPM version](https://img.shields.io/npm/v/@statetree/diff.svg?style=flat-square)](https://www.npmjs.com/package/@statetree/functions)\n[![Build Status](https://travis-ci.com/StateTree/diff.svg?branch=master)](https://travis-ci.com/StateTree/functions)\n[![Code Coverage](https://codecov.io/gh/StateTree/diff/branch/master/graph/badge.svg)](https://codecov.io/gh/StateTree/functions/branch/master/graph/badge.svg)\n\n## Download\n\n### npm\n```\nnpm install --save @statetree/diff\n```\n\n\n[Docs](https://statetree.github.io/diff/docs/)\n\n",
+    "longname": "/home/travis/build/StateTree/diff/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@statetree/diff\",\n  \"version\": \"3.0.2\",\n  \"description\": \"Utility library to find diff and comparison value for sorting\",\n  \"main\": \"lib/diff.js\",\n  \"scripts\": {\n    \"start\": \"webpack-dev-server --open --mode development\",\n    \"lint\": \"eslint ./src --ext .js --cache --fix --ext .jsx --cache --fix\",\n    \"test\": \"./node_modules/.bin/mocha test --recursive --timeout 0 --require ./node_modules/@babel/register --require test/helpers/*.js -R spec\",\n    \"coverage\": \"NODE_ENV=coverage ./node_modules/.bin/nyc npm run test\",\n    \"report-coverage\": \"nyc report --reporter=lcov > coverage.lcov && codecov\",\n    \"doc\": \"./node_modules/.bin/esdoc open ./docs/index.html\",\n    \"prebuild\": \"rimraf lib && rimraf build\",\n    \"build\": \"./node_modules/.bin/webpack --mode production \",\n    \"postbuild\": \"node scripts/postbuild.js\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/StateTree/diff.git\"\n  },\n  \"author\": \"Sanjay Krishna Anbalagan\",\n  \"license\": \"MIT\",\n  \"bugs\": {\n    \"url\": \"https://github.com/StateTree/diff/issues\"\n  },\n  \"homepage\": \"https://github.com/StateTree/diff#readme\",\n  \"devDependencies\": {\n    \"@babel/cli\": \"^7.1.2\",\n    \"@babel/core\": \"^7.1.2\",\n    \"@babel/preset-env\": \"^7.1.0\",\n    \"@babel/register\": \"^7.0.0\",\n    \"babel-eslint\": \"^10.0.1\",\n    \"babel-loader\": \"^8.0.4\",\n    \"babel-plugin-istanbul\": \"^5.0.1\",\n    \"chai\": \"^4.2.0\",\n    \"co-exec\": \"^1.1.0\",\n    \"codecov\": \"^3.1.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^5.6.1\",\n    \"eslint-loader\": \"^2.1.1\",\n    \"fs-extra\": \"^7.0.0\",\n    \"ghooks\": \"^2.0.4\",\n    \"jsdom\": \"^12.2.0\",\n    \"mocha\": \"^5.2.0\",\n    \"nyc\": \"^13.0.1\",\n    \"rimraf\": \"^2.6.2\",\n    \"sinon\": \"^6.3.5\",\n    \"webpack\": \"^4.20.2\",\n    \"webpack-cli\": \"^3.1.2\",\n    \"webpack-dev-server\": \"^3.1.9\"\n  },\n  \"files\": [\n    \"lib\"\n  ],\n  \"config\": {\n    \"ghooks\": {\n      \"pre-commit\": \"npm run test\"\n    }\n  },\n  \"publishConfig\": {\n    \"access\": \"public\"\n  }\n}\n",
+    "longname": "/home/travis/build/StateTree/diff/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "content": "# diff",
+    "longname": "/home/travis/build/StateTree/diff/build/manual/index.md",
+    "name": "./build/manual/index.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/travis/build/StateTree/diff/build/manual/installation.md",
+    "name": "./build/manual/installation.md",
+    "content": "# Download\n\n### npm\n```\nnpm install --save @statetree/diff\n```",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/travis/build/StateTree/diff/build/manual/overview.md",
+    "name": "./build/manual/overview.md",
+    "content": "# What?\n* Utility library\n* to compare similar to String localeCompare for sorting\n* use compare  to return diff\n\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/travis/build/StateTree/diff/build/manual/tutorial.md",
+    "name": "./build/manual/tutorial.md",
+    "content": "# How?\n\n## API\n### diff\n\n```\nimport diff from '@statetree/diff';\nconst num1 = 5;\nconst num2 = 6;\n\ndiff(5,5); // undefined\ndiff(num1,num2); // 6 - returns the latest value\ndiff(num2,num1); // 5 - returns the latest value\n\n```\n\n### compare\n\n```\nimport {compare} from '@statetree/diff';\nconst num1 = 5;\nconst num2 = 6;\nconst string1 = \"string\";\n\ncompare(5,5); // 0 same position in sorting\ncompare(num1,num2); // -1 indicates num1 appears before num2\ncompare(num2,num1); // 1 indicates num2 appears before num1\n// we compare on type of object if they are different data type\ncompare(num1,string1); // -1 indicates num1 appears before string1\n\n\n\n```\n### is\n```\nimport {is} from '@statetree/diff';\nis([], Array) // true\nis([], Object) // true\nis([], String) // false\nis(new Date(), Date) // true\nis(new Date(), Object) // true\n\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "__docId__": 65,
+    "kind": "testFile",
+    "name": "test/compare/array.test.js",
+    "content": "import {expect} from 'chai';\nimport arrayCompare from './../../src/lib/compare/array'\n\nlet a, b;\ndescribe('array', ()=>{\n\tit('Should return 0 when both the values are null', ()=>{\n\t\ta = null;\n\t\tb = null;\n\t\texpect(arrayCompare(a,b)).equal(0);\n\t});\n\tit('Should return in favor of non null value if one is null', ()=>{\n\t\ta = null;\n\t\tb = [];\n\t\texpect(arrayCompare(a,b)).equal(1);\n\t\texpect(arrayCompare(b,a)).equal(-1);\n\t});\n\n\tit('basic test', ()=>{\n\t\ta = [];\n\t\tb = [];\n\t\texpect(arrayCompare(a,b)).equal(0);\n\t\ta = [5];\n\t\tb = [];\n\t\texpect(arrayCompare(a,b)).equal(1);\n\t\texpect(arrayCompare(b,a)).equal(-1);\n\t\ta = [5];\n\t\tb = [5];\n\t\texpect(arrayCompare(a,b)).equal(0);\n\t\ta = [5,6];\n\t\tb = [5,3];\n\t\texpect(arrayCompare(a,b)).equal(1);\n\t\texpect(arrayCompare(b,a)).equal(-1);\n\t});\n});",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/test/compare/array.test.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 66,
+    "kind": "test",
+    "name": "describe0",
+    "testId": 0,
+    "memberof": "test/compare/array.test.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/compare/array.test.js~describe0",
+    "access": null,
+    "description": "array",
+    "lineNumber": 5
+  },
+  {
+    "__docId__": 67,
+    "kind": "test",
+    "name": "it1",
+    "testId": 1,
+    "memberof": "test/compare/array.test.js~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/array.test.js~describe0.it1",
+    "access": null,
+    "description": "Should return 0 when both the values are null",
+    "lineNumber": 6
+  },
+  {
+    "__docId__": 68,
+    "kind": "test",
+    "name": "it2",
+    "testId": 2,
+    "memberof": "test/compare/array.test.js~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/array.test.js~describe0.it2",
+    "access": null,
+    "description": "Should return in favor of non null value if one is null",
+    "lineNumber": 11
+  },
+  {
+    "__docId__": 69,
+    "kind": "test",
+    "name": "it3",
+    "testId": 3,
+    "memberof": "test/compare/array.test.js~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/array.test.js~describe0.it3",
+    "access": null,
+    "description": "basic test",
+    "lineNumber": 18
+  },
+  {
+    "__docId__": 70,
+    "kind": "testFile",
+    "name": "test/compare/date.test.js",
+    "content": "import {expect} from 'chai';\nimport dateCompare from './../../src/lib/compare/date';\nimport arrayCompare from \"../../src/lib/compare/array\";\n\nlet a, b;\ndescribe('date', ()=>{\n\tit('Should return 0 when both the values are null', ()=>{\n\t\ta = null;\n\t\tb = null;\n\t\texpect(dateCompare(a,b)).equal(0);\n\t});\n\n\tit('Should return in favor of non null value if one is null', ()=>{\n\t\ta = null;\n\t\tb = new Date();\n\t\texpect(dateCompare(a,b)).equal(1);\n\t\texpect(dateCompare(b,a)).equal(-1);\n\t});\n\n\tit('Should throw error if both the objects are undefined or ', ()=>{\n\t\ta = null;\n\t\tb = new Date();\n\t\texpect(dateCompare(a,b)).equal(1);\n\t\texpect(dateCompare(b,a)).equal(-1);\n\t});\n\n\tit('basic test', ()=>{\n\t\ta = new Date();\n\t\tb = new Date();\n\t\texpect(dateCompare(a,b)).equal(0);\n\n\t\ta = new Date('December 17, 1995 03:25:00');\n\t\tb = new Date('1995-12-17T03:24:00');\n\t\texpect(dateCompare(a,b)).equal(1);\n\t\texpect(dateCompare(b,a)).equal(-1);\n\n\t});\n});",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/test/compare/date.test.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "test",
+    "name": "describe4",
+    "testId": 4,
+    "memberof": "test/compare/date.test.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/compare/date.test.js~describe4",
+    "access": null,
+    "description": "date",
+    "lineNumber": 6
+  },
+  {
+    "__docId__": 72,
+    "kind": "test",
+    "name": "it5",
+    "testId": 5,
+    "memberof": "test/compare/date.test.js~describe4",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/date.test.js~describe4.it5",
+    "access": null,
+    "description": "Should return 0 when both the values are null",
+    "lineNumber": 7
+  },
+  {
+    "__docId__": 73,
+    "kind": "test",
+    "name": "it6",
+    "testId": 6,
+    "memberof": "test/compare/date.test.js~describe4",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/date.test.js~describe4.it6",
+    "access": null,
+    "description": "Should return in favor of non null value if one is null",
+    "lineNumber": 13
+  },
+  {
+    "__docId__": 74,
+    "kind": "test",
+    "name": "it7",
+    "testId": 7,
+    "memberof": "test/compare/date.test.js~describe4",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/date.test.js~describe4.it7",
+    "access": null,
+    "description": "Should throw error if both the objects are undefined or ",
+    "lineNumber": 20
+  },
+  {
+    "__docId__": 75,
+    "kind": "test",
+    "name": "it8",
+    "testId": 8,
+    "memberof": "test/compare/date.test.js~describe4",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/date.test.js~describe4.it8",
+    "access": null,
+    "description": "basic test",
+    "lineNumber": 27
+  },
+  {
+    "__docId__": 76,
+    "kind": "testFile",
+    "name": "test/compare/index.test.js",
+    "content": "import {expect} from 'chai';\nimport compare from './../../src/lib/compare/index';\nimport dateCompare from \"../../src/lib/compare/date\";\n\nlet a, b;\ndescribe('object', ()=>{\n\tit('Should return 0 when both the values are null', ()=>{\n\t\ta = null;\n\t\tb = null;\n\t\texpect(compare(a,b)).equal(0);\n\t});\n\n\tit('Should return in favor of non null value if one is null', ()=>{\n\t\ta = null;\n\t\tb = {};\n\t\texpect(compare(a,b)).equal(1);\n\t\texpect(compare(b,a)).equal(-1);\n\t});\n\tit('When you compare two different types of object, their types string representation are used for sorting', ()=>{\n\t\ta = {};\n\t\tb = \"string\";\n\t\texpect(compare(a,b)).equal(-1);\n\t\texpect(compare(b,a)).equal(1);\n\t\ta = {};\n\t\tb = 5;\n\t\texpect(compare(a,b)).equal(1);\n\t\texpect(compare(b,a)).equal(-1);\n\t\ta = \"string\";\n\t\tb = 5;\n\t\texpect(compare(a,b)).equal(1);\n\t\texpect(compare(b,a)).equal(-1);\n\t\ta = \"string\";\n\t\tb = true;\n\t\texpect(compare(a,b)).equal(1);\n\t\texpect(compare(b,a)).equal(-1);\n\t});\n\tit('same object comparison', ()=>{\n\t\ta = {};\n\t\tb = {};\n\t\texpect(compare(a,b)).equal(0);\n\t\ta = 5;\n\t\tb = 5;\n\t\texpect(compare(a,b)).equal(0);\n\t\ta = \"string\";\n\t\tb = \"string\";\n\t\texpect(compare(a,b)).equal(0);\n\t\ta = true;\n\t\tb = true;\n\t\texpect(compare(a,b)).equal(0);\n\t\ta = [];\n\t\tb = [];\n\t\texpect(compare(a,b)).equal(0);\n\t\ta = new Date();\n\t\tb = new Date();\n\t\texpect(compare(a,b)).equal(0);\n\t});\n\tit('same object different value comparison', ()=>{\n\t\ta = {\"x\": 4};\n\t\tb = {};\n\t\texpect(compare(a,b)).equal(1);\n\t\ta = 5;\n\t\tb = 3;\n\t\texpect(compare(a,b)).equal(1);\n\t\ta = \"Strings\";\n\t\tb = \"string\";\n\t\texpect(compare(a,b)).equal(1);\n\t\ta = true;\n\t\tb = false;\n\t\texpect(compare(a,b)).equal(1);\n\t\ta = [3];\n\t\tb = [];\n\t\texpect(compare(a,b)).equal(1);\n\t\ta = new Date('December 17, 1995 03:25:00');\n\t\tb = new Date('1995-12-17T03:24:00');\n\t\texpect(compare(a,b)).equal(1);\n\t});\n\n});",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/test/compare/index.test.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 77,
+    "kind": "test",
+    "name": "describe9",
+    "testId": 9,
+    "memberof": "test/compare/index.test.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/compare/index.test.js~describe9",
+    "access": null,
+    "description": "object",
+    "lineNumber": 6
+  },
+  {
+    "__docId__": 78,
+    "kind": "test",
+    "name": "it10",
+    "testId": 10,
+    "memberof": "test/compare/index.test.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/index.test.js~describe9.it10",
+    "access": null,
+    "description": "Should return 0 when both the values are null",
+    "lineNumber": 7
+  },
+  {
+    "__docId__": 79,
+    "kind": "test",
+    "name": "it11",
+    "testId": 11,
+    "memberof": "test/compare/index.test.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/index.test.js~describe9.it11",
+    "access": null,
+    "description": "Should return in favor of non null value if one is null",
+    "lineNumber": 13
+  },
+  {
+    "__docId__": 80,
+    "kind": "test",
+    "name": "it12",
+    "testId": 12,
+    "memberof": "test/compare/index.test.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/index.test.js~describe9.it12",
+    "access": null,
+    "description": "When you compare two different types of object, their types string representation are used for sorting",
+    "lineNumber": 19
+  },
+  {
+    "__docId__": 81,
+    "kind": "test",
+    "name": "it13",
+    "testId": 13,
+    "memberof": "test/compare/index.test.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/index.test.js~describe9.it13",
+    "access": null,
+    "description": "same object comparison",
+    "lineNumber": 37
+  },
+  {
+    "__docId__": 82,
+    "kind": "test",
+    "name": "it14",
+    "testId": 14,
+    "memberof": "test/compare/index.test.js~describe9",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/index.test.js~describe9.it14",
+    "access": null,
+    "description": "same object different value comparison",
+    "lineNumber": 57
+  },
+  {
+    "__docId__": 83,
+    "kind": "testFile",
+    "name": "test/compare/number.test.js",
+    "content": "import {expect} from 'chai';\nimport numberCompare from './../../src/lib/compare/number'\n\nlet a, b;\ndescribe('number', ()=>{\n\tit('Should return 0 when both the values are null', ()=>{\n\t\ta = null;\n\t\tb = null;\n\t\texpect(numberCompare(a,b)).equal(0);\n\t});\n\tit('Should return in favor of non null value if one is null', ()=>{\n\t\ta = null;\n\t\tb = 34;\n\t\texpect(numberCompare(a,b)).equal(-1);\n\t\texpect(numberCompare(b,a)).equal(1);\n\t});\n\tit('Should return 0 when both the values are NaN', ()=>{\n\t\ta = \"test\";\n\t\tb = \"test\";\n\t\texpect(numberCompare(a,b)).equal(0);\n\t});\n\tit('Should return in favor of a number value if one is NaN', ()=>{\n\t\ta = \"test\";\n\t\tb = 34;\n\t\texpect(numberCompare(a,b)).equal(1);\n\t\texpect(numberCompare(b,a)).equal(-1);\n\t});\n\tit('Should accept number in string form ', ()=>{\n\t\ta = \"34\";\n\t\tb = 34;\n\t\texpect(numberCompare(a,b)).equal(0);\n\t\ta = \"36\";\n\t\texpect(numberCompare(a,b)).equal(1);\n\t\texpect(numberCompare(b,a)).equal(-1);\n\t});\n\tit('Should return 1 when left hand side is greater, -1 when right hand side is greater, 0, when both are equal ', ()=>{\n\t\ta = 34;\n\t\tb = 34;\n\t\texpect(numberCompare(a,b)).equal(0);\n\t\ta = 36;\n\t\texpect(numberCompare(a,b)).equal(1);\n\t\texpect(numberCompare(b,a)).equal(-1);\n\t});\n\n});",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/test/compare/number.test.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 84,
+    "kind": "test",
+    "name": "describe15",
+    "testId": 15,
+    "memberof": "test/compare/number.test.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/compare/number.test.js~describe15",
+    "access": null,
+    "description": "number",
+    "lineNumber": 5
+  },
+  {
+    "__docId__": 85,
+    "kind": "test",
+    "name": "it16",
+    "testId": 16,
+    "memberof": "test/compare/number.test.js~describe15",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/number.test.js~describe15.it16",
+    "access": null,
+    "description": "Should return 0 when both the values are null",
+    "lineNumber": 6
+  },
+  {
+    "__docId__": 86,
+    "kind": "test",
+    "name": "it17",
+    "testId": 17,
+    "memberof": "test/compare/number.test.js~describe15",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/number.test.js~describe15.it17",
+    "access": null,
+    "description": "Should return in favor of non null value if one is null",
+    "lineNumber": 11
+  },
+  {
+    "__docId__": 87,
+    "kind": "test",
+    "name": "it18",
+    "testId": 18,
+    "memberof": "test/compare/number.test.js~describe15",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/number.test.js~describe15.it18",
+    "access": null,
+    "description": "Should return 0 when both the values are NaN",
+    "lineNumber": 17
+  },
+  {
+    "__docId__": 88,
+    "kind": "test",
+    "name": "it19",
+    "testId": 19,
+    "memberof": "test/compare/number.test.js~describe15",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/number.test.js~describe15.it19",
+    "access": null,
+    "description": "Should return in favor of a number value if one is NaN",
+    "lineNumber": 22
+  },
+  {
+    "__docId__": 89,
+    "kind": "test",
+    "name": "it20",
+    "testId": 20,
+    "memberof": "test/compare/number.test.js~describe15",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/number.test.js~describe15.it20",
+    "access": null,
+    "description": "Should accept number in string form ",
+    "lineNumber": 28
+  },
+  {
+    "__docId__": 90,
+    "kind": "test",
+    "name": "it21",
+    "testId": 21,
+    "memberof": "test/compare/number.test.js~describe15",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/number.test.js~describe15.it21",
+    "access": null,
+    "description": "Should return 1 when left hand side is greater, -1 when right hand side is greater, 0, when both are equal ",
+    "lineNumber": 36
+  },
+  {
+    "__docId__": 91,
+    "kind": "testFile",
+    "name": "test/compare/object.test.js",
+    "content": "import {expect} from 'chai';\nimport objectCompare from './../../src/lib/compare/object';\n\nlet a, b;\ndescribe('object', ()=>{\n\tit('Should return 0 when both the values are null', ()=>{\n\t\ta = null;\n\t\tb = null;\n\t\texpect(objectCompare(a,b)).equal(0);\n\t});\n\n\tit('Should return in favor of non null value if one is null', ()=>{\n\t\ta = null;\n\t\tb = {};\n\t\texpect(objectCompare(a,b)).equal(1);\n\t\texpect(objectCompare(b,a)).equal(-1);\n\t});\n\tit('basic test', ()=>{\n\t\ta = {};\n\t\tb = {};\n\t\texpect(objectCompare(a,b)).equal(0);\n\t\ta = {\"prop1\": 1};\n\t\tb = {\"prop1\": 1};\n\t\texpect(objectCompare(a,b)).equal(0);\n\t});\n\tit('Values are used to sort, when we have same keys', ()=>{\n\t\ta = {\"prop1\": 2};\n\t\tb = {\"prop1\": 1};\n\t\texpect(objectCompare(a,b)).equal(1);\n\t\texpect(objectCompare(b,a)).equal(-1);\n\t});\n\tit('Keys length is used as first comparison', ()=>{\n\t\ta = {\"prop1\": 1,\"prop2\": 1};\n\t\tb = {\"prop1\": 1};\n\t\texpect(objectCompare(a,b)).equal(1);\n\t\texpect(objectCompare(b,a)).equal(-1);\n\t});\n\tit('If a prop from first object is missing in second object, first object comes before obj2, when both object have same key length', ()=>{\n\t\ta = {\"prop1\": 1,\"prop2\": 1};\n\t\tb = {\"prop1\": 1,\"prop3\": 1};\n\t\texpect(objectCompare(a,b)).equal(-1);\n\t\texpect(objectCompare(b,a)).equal(-1);\n\t});\n});",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/test/compare/object.test.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 92,
+    "kind": "test",
+    "name": "describe22",
+    "testId": 22,
+    "memberof": "test/compare/object.test.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/compare/object.test.js~describe22",
+    "access": null,
+    "description": "object",
+    "lineNumber": 5
+  },
+  {
+    "__docId__": 93,
+    "kind": "test",
+    "name": "it23",
+    "testId": 23,
+    "memberof": "test/compare/object.test.js~describe22",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/object.test.js~describe22.it23",
+    "access": null,
+    "description": "Should return 0 when both the values are null",
+    "lineNumber": 6
+  },
+  {
+    "__docId__": 94,
+    "kind": "test",
+    "name": "it24",
+    "testId": 24,
+    "memberof": "test/compare/object.test.js~describe22",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/object.test.js~describe22.it24",
+    "access": null,
+    "description": "Should return in favor of non null value if one is null",
+    "lineNumber": 12
+  },
+  {
+    "__docId__": 95,
+    "kind": "test",
+    "name": "it25",
+    "testId": 25,
+    "memberof": "test/compare/object.test.js~describe22",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/object.test.js~describe22.it25",
+    "access": null,
+    "description": "basic test",
+    "lineNumber": 18
+  },
+  {
+    "__docId__": 96,
+    "kind": "test",
+    "name": "it26",
+    "testId": 26,
+    "memberof": "test/compare/object.test.js~describe22",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/object.test.js~describe22.it26",
+    "access": null,
+    "description": "Values are used to sort, when we have same keys",
+    "lineNumber": 26
+  },
+  {
+    "__docId__": 97,
+    "kind": "test",
+    "name": "it27",
+    "testId": 27,
+    "memberof": "test/compare/object.test.js~describe22",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/object.test.js~describe22.it27",
+    "access": null,
+    "description": "Keys length is used as first comparison",
+    "lineNumber": 32
+  },
+  {
+    "__docId__": 98,
+    "kind": "test",
+    "name": "it28",
+    "testId": 28,
+    "memberof": "test/compare/object.test.js~describe22",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/object.test.js~describe22.it28",
+    "access": null,
+    "description": "If a prop from first object is missing in second object, first object comes before obj2, when both object have same key length",
+    "lineNumber": 38
+  },
+  {
+    "__docId__": 99,
+    "kind": "testFile",
+    "name": "test/compare/string.test.js",
+    "content": "import {expect} from 'chai';\nimport stringCompare from './../../src/lib/compare/string';\n\nlet a, b;\ndescribe('string', ()=>{\n\tit('Should return 0 when both the values are null', ()=>{\n\t\ta = null;\n\t\ta = null;\n\t\texpect(stringCompare(a,b)).equal(0);\n\t});\n\n\tit('Should return in favor of non null value if one is null', ()=>{\n\t\ta = null;\n\t\tb = \"test\";\n\t\texpect(stringCompare(a,b)).equal(1);\n\t\texpect(stringCompare(b,a)).equal(-1);\n\t});\n\tit('Should return 1 when left hand side is greater, -1 when right hand side is greater, 0, when both are equal ', ()=>{\n\t\ta = \"34\";\n\t\tb = \"34\";\n\t\texpect(stringCompare(a,b)).equal(0);\n\t\ta = \"36\";\n\t\texpect(stringCompare(a,b)).equal(1);\n\t\texpect(stringCompare(b,a)).equal(-1);\n\t});\n\tit('default is Case sensitive comparison', ()=>{\n\t\ta = \"test\";\n\t\tb = \"Test\";\n\t\texpect(stringCompare(a,b)).equal(-1);\n\t\texpect(stringCompare(b,a)).equal(1);\n\t\texpect(stringCompare(a,b, false)).equal(0);\n\t\texpect(stringCompare(b,a, false)).equal(0);\n\t});\n});",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/test/compare/string.test.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 100,
+    "kind": "test",
+    "name": "describe29",
+    "testId": 29,
+    "memberof": "test/compare/string.test.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/compare/string.test.js~describe29",
+    "access": null,
+    "description": "string",
+    "lineNumber": 5
+  },
+  {
+    "__docId__": 101,
+    "kind": "test",
+    "name": "it30",
+    "testId": 30,
+    "memberof": "test/compare/string.test.js~describe29",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/string.test.js~describe29.it30",
+    "access": null,
+    "description": "Should return 0 when both the values are null",
+    "lineNumber": 6
+  },
+  {
+    "__docId__": 102,
+    "kind": "test",
+    "name": "it31",
+    "testId": 31,
+    "memberof": "test/compare/string.test.js~describe29",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/string.test.js~describe29.it31",
+    "access": null,
+    "description": "Should return in favor of non null value if one is null",
+    "lineNumber": 12
+  },
+  {
+    "__docId__": 103,
+    "kind": "test",
+    "name": "it32",
+    "testId": 32,
+    "memberof": "test/compare/string.test.js~describe29",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/string.test.js~describe29.it32",
+    "access": null,
+    "description": "Should return 1 when left hand side is greater, -1 when right hand side is greater, 0, when both are equal ",
+    "lineNumber": 18
+  },
+  {
+    "__docId__": 104,
+    "kind": "test",
+    "name": "it33",
+    "testId": 33,
+    "memberof": "test/compare/string.test.js~describe29",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/compare/string.test.js~describe29.it33",
+    "access": null,
+    "description": "default is Case sensitive comparison",
+    "lineNumber": 26
+  },
+  {
+    "__docId__": 105,
+    "kind": "testFile",
+    "name": "test/diff.test.js",
+    "content": "import {expect} from 'chai';\nimport diff from './../src/lib/diff'\n\nlet a, b;\ndescribe('diff', ()=>{\n\tit('Should return undef when both the values are same', ()=>{\n\t\ta = 5;\n\t\tb = 5;\n\t\texpect(diff(a,b)).equal(undefined);\n\t});\n\tit('Should return new value when they are not same', ()=>{\n\t\ta = null;\n\t\tb = 5;\n\t\texpect(diff(a,b)).equal(5);\n\t});\n});",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/test/diff.test.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 106,
+    "kind": "test",
+    "name": "describe34",
+    "testId": 34,
+    "memberof": "test/diff.test.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/diff.test.js~describe34",
+    "access": null,
+    "description": "diff",
+    "lineNumber": 5
+  },
+  {
+    "__docId__": 107,
+    "kind": "test",
+    "name": "it35",
+    "testId": 35,
+    "memberof": "test/diff.test.js~describe34",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/diff.test.js~describe34.it35",
+    "access": null,
+    "description": "Should return undef when both the values are same",
+    "lineNumber": 6
+  },
+  {
+    "__docId__": 108,
+    "kind": "test",
+    "name": "it36",
+    "testId": 36,
+    "memberof": "test/diff.test.js~describe34",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/diff.test.js~describe34.it36",
+    "access": null,
+    "description": "Should return new value when they are not same",
+    "lineNumber": 11
+  },
+  {
+    "__docId__": 109,
+    "kind": "testFile",
+    "name": "test/is.test.js",
+    "content": "import {expect} from 'chai';\nimport is from './../src/lib/is'\n\nclass TestClass {\n\n}\n\ndescribe('is', ()=>{\n\tit('Should return false if object is null', ()=>{\n\t\texpect(is(null,String)).equal(false);\n\t\texpect(is(undefined,String)).equal(false);\n\t\texpect(is(null,null)).equal(false);\n\t\texpect(is(undefined,undefined)).equal(false);\n\t});\n\tit('Should return true  for correct object type', ()=>{\n\t\texpect(is(\"5\",String)).equal(true);\n\t\texpect(is(5,String)).equal(false);\n\t\texpect(is(5,Number)).equal(true);\n\t\texpect(is([],Array)).equal(true);\n\t\texpect(is([],Object)).equal(true);\n\t\texpect(is({},Object)).equal(true);\n\t\texpect(is({},Array)).equal(false);\n\t\texpect(is(true,Boolean)).equal(true);\n\t});\n\tit('Should return true  for instance of specific class if Object passed as Type', ()=>{\n\t\tlet inst = new TestClass();\n\t\texpect(is(inst,TestClass)).equal(true);\n\t\texpect(is(inst,Object)).equal(true);\n\t});\n});",
+    "static": true,
+    "longname": "/home/travis/build/StateTree/diff/test/is.test.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 110,
+    "kind": "test",
+    "name": "describe37",
+    "testId": 37,
+    "memberof": "test/is.test.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "test/is.test.js~describe37",
+    "access": null,
+    "description": "is",
+    "lineNumber": 8
+  },
+  {
+    "__docId__": 111,
+    "kind": "test",
+    "name": "it38",
+    "testId": 38,
+    "memberof": "test/is.test.js~describe37",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/is.test.js~describe37.it38",
+    "access": null,
+    "description": "Should return false if object is null",
+    "lineNumber": 9
+  },
+  {
+    "__docId__": 112,
+    "kind": "test",
+    "name": "it39",
+    "testId": 39,
+    "memberof": "test/is.test.js~describe37",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/is.test.js~describe37.it39",
+    "access": null,
+    "description": "Should return true  for correct object type",
+    "lineNumber": 15
+  },
+  {
+    "__docId__": 113,
+    "kind": "test",
+    "name": "it40",
+    "testId": 40,
+    "memberof": "test/is.test.js~describe37",
+    "testDepth": 1,
+    "static": true,
+    "longname": "test/is.test.js~describe37.it40",
+    "access": null,
+    "description": "Should return true  for instance of specific class if Object passed as Type",
+    "lineNumber": 25
+  }
+]
